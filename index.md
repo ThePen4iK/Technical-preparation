@@ -13,10 +13,15 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-    - theme: alt 
+    - theme: alt
       text: JavaScript
       link: /JavaScript/javascript
-
+    - theme: alt
+      text: CSS
+      link: /Markdown/css  
+    - theme: alt
+      text: React
+      link: /React/react
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
