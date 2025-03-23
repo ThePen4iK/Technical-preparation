@@ -1,7 +1,8 @@
 ---
 title: This is my title
 ---
-[[toc]]
+
+[//]: # ([[toc]])
 ## Типы данных
 
 - Примитивные: `string`, `number`, `bigint`, `boolean`, `null`, `undefined`, `symbol`

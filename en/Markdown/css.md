@@ -1,19 +1,27 @@
 ## Semantic Elements in HTML (Семантика)
-![semantic.png](..%2Fpublic%2Fsemantic.png)
 
-- `<article>`
-- `<aside>`
-- `<details>`
-- `<figcaption>`
-- `<figure>`
-- `<footer>`
-- `<header>`
-- `<main>`
-- `<mark>`
-- `<nav>`
-- `<section>`
-- `<summary>`
-- `<time>`
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <ul>
+      <li><code>&lt;article&gt;</code></li>
+      <li><code>&lt;aside&gt;</code></li>
+      <li><code>&lt;details&gt;</code></li>
+      <li><code>&lt;figcaption&gt;</code></li>
+      <li><code>&lt;figure&gt;</code></li>
+      <li><code>&lt;footer&gt;</code></li>
+      <li><code>&lt;header&gt;</code></li>
+      <li><code>&lt;main&gt;</code></li>
+      <li><code>&lt;mark&gt;</code></li>
+      <li><code>&lt;nav&gt;</code></li>
+      <li><code>&lt;section&gt;</code></li>
+      <li><code>&lt;summary&gt;</code></li>
+      <li><code>&lt;time&gt;</code></li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="../../public/semantic.png" alt="Semantic Elements" style="max-width: 100%; height: 100%;">
+  </div>
+</div>
 
 ## Box model (Блочная модель)
 Блочная модель, она же box model — это алгоритм расчёта размеров каждого отдельного элемента на странице
