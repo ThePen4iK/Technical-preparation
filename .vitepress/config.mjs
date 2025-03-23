@@ -23,8 +23,8 @@ export default defineConfig({
     ],
     localeLinks: {
       items: [
-        { text: 'English', link: '/en/' }, // Ссылка на главную страницу английской локализации
-        { text: 'Русский', link: '/ru/' } // Ссылка на главную страницу русской локализации
+        { text: 'English', link: '/en/' },
+        { text: 'Русский', link: '/ru/' }
       ]
     },
     sidebar: {
@@ -32,19 +32,19 @@ export default defineConfig({
         {
           text: 'JavaScript',
           items: [
-            { text: 'JS', link: '/en/JavaScript/javascript' },
+            { text: 'JS', link: '/en/JavaScript' },
           ]
         },
         {
           text: 'Markdown',
           items: [
-            { text: 'CSS', link: '/en/Markdown/css' },
+            { text: 'CSS', link: '/en/Markdown' },
           ]
         },
         {
           text: 'React',
           items: [
-            { text: 'React', link: '/en/React/react' },
+            { text: 'React', link: '/en/React' },
           ]
         }
       ],
@@ -52,19 +52,19 @@ export default defineConfig({
         {
           text: 'JavaScript',
           items: [
-            { text: 'JS', link: '/ru/JavaScript/javascript' },
+            { text: 'JS', link: '/ru/JavaScript' },
           ]
         },
         {
           text: 'Markdown',
           items: [
-            { text: 'CSS', link: '/ru/Markdown/css' },
+            { text: 'CSS', link: '/ru/Markdown' },
           ]
         },
         {
           text: 'React',
           items: [
-            { text: 'React', link: '/ru/React/react' },
+            { text: 'React', link: '/ru/React' },
           ]
         }
       ]

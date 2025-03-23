@@ -19,7 +19,7 @@
     </ul>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="../../public/semantic.png" alt="Semantic Elements" style="max-width: 100%; height: 100%;">
+    <img src="/public/semantic.png" alt="Semantic Elements" style="max-width: 100%; height: 100%;">
   </div>
 </div>
 

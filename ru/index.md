@@ -6,11 +6,11 @@ hero:
   actions:
     - theme: brand
       text: JavaScript
-      link: /ru/JavaScript/javascript
+      link: /ru/JavaScript
     - theme: alt
       text: CSS
-      link: /ru/Markdown/css  
+      link: /ru/Markdown  
     - theme: alt
       text: React
-      link: /ru/React/react
+      link: /ru/React
 ---
