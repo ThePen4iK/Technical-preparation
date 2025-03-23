@@ -30,7 +30,7 @@
 
 Блочная модель состоит из нескольких CSS-свойств, влияющих на размеры элемента:
 
-![box-model.png](..%2Fpublic%2Fbox-model.png)
+![Box Model](/box-model.png)
 
 - `width` — ширина элемента;
 - `height` — высота элемента;
